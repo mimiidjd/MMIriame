@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Portfolio de Miriame',
-  description: 'Portfolio présentant mes projets et compétences en développement web',
+  description: 'Développeuse web créative et étudiante en BUT MMI, je partage mes projets en développement web, design UX/UI et dispositifs interactifs. Découvrez mes réalisations en Laravel, React, et mes expériences en création numérique.',
 };
 
 export default function RootLayout({
