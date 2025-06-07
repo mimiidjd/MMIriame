@@ -34,7 +34,7 @@ export default function Footer() {
             </a>
           </div>
           <p className="text-blue-800 text-sm">
-            © {new Date().getFullYear()} Miriame. Tous droits réservés.
+            © {new Date().getFullYear()} MMIriame. Tous droits réservés.
           </p>
         </div>
       </div>

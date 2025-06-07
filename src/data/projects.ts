@@ -16,7 +16,7 @@ Où ?
 Ce projet s'est déroulé dans le cadre de mon stage de deuxième année, au sein du salon Ohmyglow Beauty, situé à Toulon.
 Quand ?
 
-Le stage a eu lieu au second semestre de BUT2, entre mars et mai 2025.
+Le stage a eu lieu au second semestre de BUT2, entre février et avril 2025.
 Comment ?
 
     Analyse stratégique (AC21.01) : J'ai commencé par une veille concurrentielle sur les salons de beauté à Toulon pour comprendre les tendances de communication, les pratiques tarifaires et les outils de réservation utilisés dans le secteur.
