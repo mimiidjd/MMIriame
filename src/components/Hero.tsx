@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function Hero() {
   return (
-    <section className="min-h-[calc(100vh-4rem)] flex items-center justify-center relative overflow-hidden py-12 sm:py-16 md:py-20">
+    <section className="min-h-[calc(100vh-4rem)] flex items-center justify-center relative overflow-hidden pt-24 sm:pt-28 md:pt-32 pb-12 sm:pb-16 md:pb-20">
       {/* Background gradients */}
       <div className="absolute inset-0 bg-gradient-to-br from-blue-100 via-purple-100 to-emerald-100" />
       <div className="absolute top-0 left-0 w-full h-full">
@@ -15,7 +15,7 @@ export default function Hero() {
       <div className="relative container mx-auto px-4 z-10 flex flex-col md:flex-row items-center justify-between gap-8 md:gap-12 animate-fadeIn">
         {/* Text Content */}
         <div className="text-center md:text-left md:w-1/2 space-y-4 sm:space-y-6">
-          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-800 via-purple-800 to-emerald-800 animate-gradient break-words">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-800 via-purple-800 to-emerald-800 animate-gradient break-words md:whitespace-nowrap">
             Miriame Aboudou
           </h1>
           <p className="text-lg sm:text-xl text-gray-700 md:text-gray-800 max-w-2xl md:max-w-none mx-auto leading-relaxed animate-slideInUp animation-delay-500">
